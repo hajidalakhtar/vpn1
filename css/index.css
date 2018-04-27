@@ -1,0 +1,50 @@
+.navbar-brand{
+
+  margin-left: 185px;
+  margin-top: 5px;
+}
+.nav{
+  background-color: rgb(36, 36, 36);
+}
+.text1{
+  margin-left: 20px;
+  color: white;
+  margin-top: 60px;
+
+
+}
+.Textconten{
+  color: orange;
+  margin-top: 100px;
+
+}
+.jumbotron{
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+  height: 750px;
+
+
+}
+.img1{
+top: -30%;
+position:absolute;
+}
+.conten4{
+
+  padding-top: 0px;
+  margin-top: 0px;
+  background-color: #EDEDED;
+}
+.delay-1 {
+animation-delay: .15s;
+
+}
+.delay-2 {
+animation-delay: .5s;
+}
+.delay-3 {
+animation-delay: .75s;
+}
+.delay-4 {
+animation-delay: 1s;
+}
